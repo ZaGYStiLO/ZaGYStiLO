@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div align="center">
+<img src="https://github.com/AleksandrMeshkov/zagust/blob/main/sousou-no-frieren-frieren.gif" align="center" style="width: 100%" />
+</div>
 <!--
 **ZaGYStiLO/ZaGYStiLO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
