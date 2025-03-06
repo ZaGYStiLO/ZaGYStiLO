@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/AleksandrMeshkov/zagust/blob/main/sousou-no-frieren-frieren.gif" style="width: 100%; max-width: 100vw;" />
+    <img src="https://github.com/ZaGYStiLO/GIF/blob/main/smug-frieren.gif" style="width: 100%; max-width: 100vw;" />
 </div>
 <!--
 **ZaGYStiLO/ZaGYStiLO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
